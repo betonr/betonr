@@ -3,7 +3,7 @@
 I'm Carlos Noronha,
 I study and work with programming since I was 14 years old and I like ⚡**tech** and **sports**.
 
-💬 I'm a Software Engineer at a financial institution. Systems Analyst graduate with emphasis on web software development and cloud computing. I have experience with marketing digital, geographic information system and the financial sector.
+💬 I'm a Software Engineer at a financial institution. Systems Analyst graduate with emphasis on web software development and cloud computing. I have experience with digital marketing, geographic information system and the financial sector.
 
 ## Technologies
 
